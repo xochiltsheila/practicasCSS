@@ -1,3 +1,7 @@
 body {
-    background: url('img/logoo.jpg');
+    background: #637dda;
+    background: url('img/watercolor.png');
+    background-repeat: repeat;
+
+    background-attachment: scroll;
 }
